@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1522007049 source:d:\info\proiect_grafica\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<cmath>
+	<string.h>
+	<stdio.h>
+
+1522004164 source:d:\madalina\proiect_grafica\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<cmath>
+	<string.h>
+	<stdio.h>
+
+1582830603 source:d:\projects\proiect_grafica_grafuri\proiect_grafica\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<cmath>
+	<string.h>
+	<stdio.h>
+
+1583775944 source:d:\projects\proiect_grafica_grafuri_2\proiect_grafica\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<cmath>
+	<string.h>
+	<stdio.h>
+
+1617472660 source:d:\proiecte\000 9-11\proiect_grafica_grafuri_2\proiect_grafica\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<cmath>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
